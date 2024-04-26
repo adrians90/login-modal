@@ -2,7 +2,7 @@
 
 This is a mini project created in order to practice **Tailwind CSS**
 
-Built with: **HTML & Tailwind CSS**
+**Built with: HTML & Tailwind CSS**
 
 Live link:
 
